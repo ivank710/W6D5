@@ -1,0 +1,21 @@
+body{
+  background-color: lightskyblue;
+  font-family: 'Felipa', cursive;
+
+}
+
+/* #root{
+  padding: 20px;
+  border-style: solid;
+  border-width: 5px;
+  text-align: center;
+  background-color: yellow;
+} */
+
+.cheese{
+  padding: 20px;
+  border-style: solid;
+  border-width: 5px;
+  text-align: center;
+  background-color: tomato;
+}
